@@ -2,7 +2,7 @@ opencv-python==4.5.1.48; platform_machine != "aarch64" and platform_machine != "
 opencv-contrib-python==4.5.1.48; platform_machine != "aarch64" and platform_machine != "armv6l" and platform_machine != "armv7l"
 opencv-python==4.4.0.46; platform_machine == "armv6l" or platform_machine == "armv7l"
 opencv-contrib-python==4.4.0.46; platform_machine == "armv6l" or platform_machine == "armv7l"
-requests==2.24.0
+requests==2.31.0
 argcomplete==1.12.1
 blobconverter==0.0.10
 # --extra-index-url https://artifacts.luxonis.com/artifactory/luxonis-python-snapshot-local/
